@@ -5,8 +5,7 @@ Este projeto realiza uma análise detalhada de dados de filmes e séries utiliza
 ## Fontes de Dados
 
 1. **Netflix - Kaggle:** [Netflix Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-2. **IMDB:** [IMDB](https://www.imdb.com/)
-3. **Rotten Tomatoes:** [Rotten Tomatoes Movies and Critic Reviews Dataset](https://www.rottentomatoes.com) - [Kaggle Dataset](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/data)
+2. **Rotten Tomatoes:** [Rotten Tomatoes Movies and Critic Reviews Dataset](https://www.rottentomatoes.com) - [Kaggle Dataset](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/data)
 
 ## Equipe
 
